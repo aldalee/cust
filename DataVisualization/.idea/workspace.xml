@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b97e0dc4-19cf-4abe-b0a7-584dc109261b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1igwppzFmPxklEx5Zdxw25gO0Km" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/experiment07" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Pycharm-project\cust\DataVisualization\experiment07" />
+      <recent name="F:\Pycharm-project\cust\DataVisualization\experiment05" />
+      <recent name="F:\Pycharm-project\cust\DataVisualization\experiment04" />
+      <recent name="F:\Pycharm-project\cust\DataVisualization\week10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.T">
+    <configuration name="1x2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment05/1x2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1x2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\Pycharm-project\cust\DataVisualization\experiment05\1x2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2x2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment05/2x2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment07/D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaxAndMinTemperature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\Pycharm-project\cust\DataVisualization\experiment04\MaxAndMinTemperature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="T" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataVisualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment07/T.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.T" />
+        <item itemvalue="Python.D" />
+        <item itemvalue="Python.2x2" />
+        <item itemvalue="Python.1x2 (1)" />
+        <item itemvalue="Python.1x2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b97e0dc4-19cf-4abe-b0a7-584dc109261b" name="Default Changelist" comment="" />
+      <created>1602342728438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602342728438</updated>
+      <workItem from="1602342730513" duration="4491000" />
+      <workItem from="1603026953899" duration="7981000" />
+      <workItem from="1603347900069" duration="7569000" />
+      <workItem from="1603356994522" duration="451000" />
+      <workItem from="1603758005782" duration="41000" />
+      <workItem from="1603953254734" duration="5688000" />
+      <workItem from="1604064209089" duration="6699000" />
+      <workItem from="1604145166841" duration="40000" />
+      <workItem from="1604557533844" duration="3461000" />
+      <workItem from="1604587122163" duration="205000" />
+      <workItem from="1604924478472" duration="5048000" />
+      <workItem from="1605530635967" duration="1564000" />
+      <workItem from="1605949081234" duration="2448000" />
+      <workItem from="1605967870130" duration="1196000" />
+      <workItem from="1606024707001" duration="2266000" />
+      <workItem from="1606819139372" duration="922000" />
+      <workItem from="1606918420361" duration="3005000" />
+      <workItem from="1607006379421" duration="825000" />
+      <workItem from="1607322467605" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1604924492822">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604924492822" />
+    <state width="1276" height="228" key="GridCell.Tab.0.bottom" timestamp="1606921430336">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1877" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605532210173" />
+    <state width="1815" height="228" key="GridCell.Tab.0.bottom/62.0.1304.768/1428.0.1858.1080@1428.0.1858.1080" timestamp="1606921133131" />
+    <state width="1276" height="228" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1606921430336" />
+    <state width="1276" height="228" key="GridCell.Tab.0.center" timestamp="1606921430335">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1877" height="134" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605532210173" />
+    <state width="1815" height="228" key="GridCell.Tab.0.center/62.0.1304.768/1428.0.1858.1080@1428.0.1858.1080" timestamp="1606921133131" />
+    <state width="1276" height="228" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1606921430335" />
+    <state width="1276" height="228" key="GridCell.Tab.0.left" timestamp="1606921430333">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1877" height="134" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605532210173" />
+    <state width="1815" height="228" key="GridCell.Tab.0.left/62.0.1304.768/1428.0.1858.1080@1428.0.1858.1080" timestamp="1606921133131" />
+    <state width="1276" height="228" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1606921430333" />
+    <state width="1276" height="228" key="GridCell.Tab.0.right" timestamp="1606921430335">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1877" height="134" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605532210173" />
+    <state width="1815" height="228" key="GridCell.Tab.0.right/62.0.1304.768/1428.0.1858.1080@1428.0.1858.1080" timestamp="1606921133131" />
+    <state width="1276" height="228" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1606921430335" />
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1604933614445">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604933614445" />
+    <state width="1877" height="342" key="GridCell.Tab.1.center" timestamp="1604933614445">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604933614445" />
+    <state width="1877" height="342" key="GridCell.Tab.1.left" timestamp="1604933614445">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604933614445" />
+    <state width="1877" height="342" key="GridCell.Tab.1.right" timestamp="1604933614445">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604933614445" />
+    <state x="1858" y="182" key="SettingsEditor" timestamp="1606920384807">
+      <screen x="1428" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1858" y="182" key="SettingsEditor/62.0.1304.768/1428.0.1858.1080@1428.0.1858.1080" timestamp="1606920384807" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataVisualization$month.coverage" NAME="month Coverage Results" MODIFIED="1604933351232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment03" />
+    <SUITE FILE_PATH="coverage/DataVisualization$D.coverage" NAME="D Coverage Results" MODIFIED="1606921116435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment07" />
+    <SUITE FILE_PATH="coverage/DataVisualization$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1602344209977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/DataVisualization$Love.coverage" NAME="Love Coverage Results" MODIFIED="1604130926564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment02" />
+    <SUITE FILE_PATH="coverage/DataVisualization$BoxDiagramComparison.coverage" NAME="BoxDiagramComparison Coverage Results" MODIFIED="1604931596442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week08" />
+    <SUITE FILE_PATH="coverage/DataVisualization$week.coverage" NAME="week Coverage Results" MODIFIED="1604933321012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment03" />
+    <SUITE FILE_PATH="coverage/DataVisualization$movie.coverage" NAME="movie Coverage Results" MODIFIED="1604130840078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment02" />
+    <SUITE FILE_PATH="coverage/DataVisualization$yq_line.coverage" NAME="yq-line Coverage Results" MODIFIED="1604587228416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week10" />
+    <SUITE FILE_PATH="coverage/DataVisualization$RingDiagram_Chart.coverage" NAME="RingDiagram-Chart Coverage Results" MODIFIED="1604931608698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/DataVisualization$movie2.coverage" NAME="movie2 Coverage Results" MODIFIED="1604130845487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment02" />
+    <SUITE FILE_PATH="coverage/DataVisualization$Rose.coverage" NAME="Rose Coverage Results" MODIFIED="1604559024364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week10" />
+    <SUITE FILE_PATH="coverage/DataVisualization$test.coverage" NAME="test Coverage Results" MODIFIED="1605951995503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp" />
+    <SUITE FILE_PATH="coverage/DataVisualization$ItalySankey.coverage" NAME="ItalySankey Coverage Results" MODIFIED="1603953755411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week09" />
+    <SUITE FILE_PATH="coverage/DataVisualization$RingDiagram.coverage" NAME="RingDiagram Coverage Results" MODIFIED="1603027355598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week05" />
+    <SUITE FILE_PATH="coverage/DataVisualization$MaxTemperature__1_.coverage" NAME="MaxTemperature (1) Coverage Results" MODIFIED="1605532094814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment04" />
+    <SUITE FILE_PATH="coverage/DataVisualization$BarChart.coverage" NAME="BarChart Coverage Results" MODIFIED="1603961673173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week04" />
+    <SUITE FILE_PATH="coverage/DataVisualization$1x2__1_.coverage" NAME="1x2 (1) Coverage Results" MODIFIED="1606026777790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment05" />
+    <SUITE FILE_PATH="coverage/DataVisualization$PieChart.coverage" NAME="PieChart Coverage Results" MODIFIED="1603027257202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week04" />
+    <SUITE FILE_PATH="coverage/DataVisualization$T.coverage" NAME="T Coverage Results" MODIFIED="1606921133113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment07" />
+    <SUITE FILE_PATH="coverage/DataVisualization$yq_china.coverage" NAME="yq-china Coverage Results" MODIFIED="1604587183974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week10" />
+    <SUITE FILE_PATH="coverage/DataVisualization$quarter.coverage" NAME="quarter Coverage Results" MODIFIED="1604933368181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment03" />
+    <SUITE FILE_PATH="coverage/DataVisualization$Sankey2.coverage" NAME="Sankey2 Coverage Results" MODIFIED="1603953557138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week09" />
+    <SUITE FILE_PATH="coverage/DataVisualization$2x2.coverage" NAME="2x2 Coverage Results" MODIFIED="1606026868110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment05" />
+    <SUITE FILE_PATH="coverage/DataVisualization$1x1.coverage" NAME="1x1 Coverage Results" MODIFIED="1606026603550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment05" />
+    <SUITE FILE_PATH="coverage/DataVisualization$ErrorBar.coverage" NAME="ErrorBar Coverage Results" MODIFIED="1603352278600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week08" />
+    <SUITE FILE_PATH="coverage/DataVisualization$Sanky.coverage" NAME="Sanky Coverage Results" MODIFIED="1603953466811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week09" />
+    <SUITE FILE_PATH="coverage/DataVisualization$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1604929256234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment03" />
+    <SUITE FILE_PATH="coverage/DataVisualization$BoxDiagram.coverage" NAME="BoxDiagram Coverage Results" MODIFIED="1604931583618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week07" />
+    <SUITE FILE_PATH="coverage/DataVisualization$Sin.coverage" NAME="Sin Coverage Results" MODIFIED="1603355326974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment01" />
+    <SUITE FILE_PATH="coverage/DataVisualization$BarChart__1_.coverage" NAME="BarChart (1) Coverage Results" MODIFIED="1602392082007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03" />
+    <SUITE FILE_PATH="coverage/DataVisualization$HistogramComparison.coverage" NAME="HistogramComparison Coverage Results" MODIFIED="1603961664995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03" />
+    <SUITE FILE_PATH="coverage/DataVisualization$t.coverage" NAME="t Coverage Results" MODIFIED="1605531196436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment04" />
+    <SUITE FILE_PATH="coverage/DataVisualization$d.coverage" NAME="d Coverage Results" MODIFIED="1604930417110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment03" />
+    <SUITE FILE_PATH="coverage/DataVisualization$HistogramComparison__1_.coverage" NAME="HistogramComparison (1) Coverage Results" MODIFIED="1603027238553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03" />
+  </component>
+</project>

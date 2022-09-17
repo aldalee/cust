@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="01e80269c32b487394668339c1bcf44a" class="chart-container" style="width:800px; height:600px;"></div>
+    <script>
+        var chart_01e80269c32b487394668339c1bcf44a = echarts.init(
+            document.getElementById('01e80269c32b487394668339c1bcf44a'), 'white', {renderer: 'canvas'});
+        var option_01e80269c32b487394668339c1bcf44a = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "sankey",
+            "name": "legend",
+            "data": [
+                {
+                    "name": "Brazil"
+                },
+                {
+                    "name": "Canada"
+                },
+                {
+                    "name": "Mexico"
+                },
+                {
+                    "name": "USA"
+                },
+                {
+                    "name": "Portugal"
+                },
+                {
+                    "name": "France"
+                },
+                {
+                    "name": "Spain"
+                },
+                {
+                    "name": "England"
+                },
+                {
+                    "name": "South Africa"
+                },
+                {
+                    "name": "Angola"
+                },
+                {
+                    "name": "Senegal"
+                },
+                {
+                    "name": "Mali"
+                },
+                {
+                    "name": "Morocco"
+                },
+                {
+                    "name": "China"
+                },
+                {
+                    "name": "India"
+                },
+                {
+                    "name": "Japan"
+                }
+            ],
+            "links": [
+                {
+                    "source": "Brazil",
+                    "target": "Portugal",
+                    "value": 5
+                },
+                {
+                    "source": "Brazil",
+                    "target": "France",
+                    "value": 1
+                },
+                {
+                    "source": "Brazil",
+                    "target": "Spain",
+                    "value": 1
+                },
+                {
+                    "source": "Brazil",
+                    "target": "England",
+                    "value": 1
+                },
+                {
+                    "source": "Canada",
+                    "target": "Portugal",
+                    "value": 1
+                },
+                {
+                    "source": "Canada",
+                    "target": "France",
+                    "value": 5
+                },
+                {
+                    "source": "Canada",
+                    "target": "England",
+                    "value": 1
+                },
+                {
+                    "source": "Mexico",
+                    "target": "Portugal",
+                    "value": 1
+                },
+                {
+                    "source": "Mexico",
+                    "target": "France",
+                    "value": 1
+                },
+                {
+                    "source": "Mexico",
+                    "target": "Spain",
+                    "value": 5
+                },
+                {
+                    "source": "Mexico",
+                    "target": "England",
+                    "value": 1
+                },
+                {
+                    "source": "USA",
+                    "target": "Portugal",
+                    "value": 1
+                },
+                {
+                    "source": "USA",
+                    "target": "France",
+                    "value": 1
+                },
+                {
+                    "source": "USA",
+                    "target": "Spain",
+                    "value": 1
+                },
+                {
+                    "source": "USA",
+                    "target": "England",
+                    "value": 5
+                },
+                {
+                    "source": "Portugal",
+                    "target": "Angola",
+                    "value": 2
+                },
+                {
+                    "source": "Portugal",
+                    "target": "Senegal",
+                    "value": 1
+                },
+                {
+                    "source": "Portugal",
+                    "target": "Morocco",
+                    "value": 1
+                },
+                {
+                    "source": "Portugal",
+                    "target": "South Africa",
+                    "value": 3
+                },
+                {
+                    "source": "France",
+                    "target": "Angola",
+                    "value": 1
+                },
+                {
+                    "source": "France",
+                    "target": "Senegal",
+                    "value": 3
+                },
+                {
+                    "source": "France",
+                    "target": "Mali",
+                    "value": 3
+                },
+                {
+                    "source": "France",
+                    "target": "Morocco",
+                    "value": 3
+                },
+                {
+                    "source": "France",
+                    "target": "South Africa",
+                    "value": 1
+                },
+                {
+                    "source": "Spain",
+                    "target": "Senegal",
+                    "value": 1
+                },
+                {
+                    "source": "Spain",
+                    "target": "Morocco",
+                    "value": 3
+                },
+                {
+                    "source": "Spain",
+                    "target": "South Africa",
+                    "value": 1
+                },
+                {
+                    "source": "England",
+                    "target": "Angola",
+                    "value": 1
+                },
+                {
+                    "source": "England",
+                    "target": "Senegal",
+                    "value": 1
+                },
+                {
+                    "source": "England",
+                    "target": "Morocco",
+                    "value": 2
+                },
+                {
+                    "source": "England",
+                    "target": "South Africa",
+                    "value": 7
+                },
+                {
+                    "source": "South Africa",
+                    "target": "China",
+                    "value": 5
+                },
+                {
+                    "source": "South Africa",
+                    "target": "India",
+                    "value": 1
+                },
+                {
+                    "source": "South Africa",
+                    "target": "Japan",
+                    "value": 3
+                },
+                {
+                    "source": "Angola",
+                    "target": "China",
+                    "value": 5
+                },
+                {
+                    "source": "Angola",
+                    "target": "India",
+                    "value": 1
+                },
+                {
+                    "source": "Angola",
+                    "target": "Japan",
+                    "value": 3
+                },
+                {
+                    "source": "Senegal",
+                    "target": "China",
+                    "value": 5
+                },
+                {
+                    "source": "Senegal",
+                    "target": "India",
+                    "value": 1
+                },
+                {
+                    "source": "Senegal",
+                    "target": "Japan",
+                    "value": 3
+                },
+                {
+                    "source": "Mali",
+                    "target": "China",
+                    "value": 5
+                },
+                {
+                    "source": "Mali",
+                    "target": "India",
+                    "value": 1
+                },
+                {
+                    "source": "Mali",
+                    "target": "Japan",
+                    "value": 3
+                },
+                {
+                    "source": "Morocco",
+                    "target": "China",
+                    "value": 5
+                },
+                {
+                    "source": "Morocco",
+                    "target": "India",
+                    "value": 1
+                },
+                {
+                    "source": "Morocco",
+                    "target": "Japan",
+                    "value": 3
+                }
+            ],
+            "left": "5%",
+            "top": "5%",
+            "right": "20%",
+            "bottom": "5%",
+            "nodeWidth": 20,
+            "nodeGap": 8,
+            "nodeAlign": "justify",
+            "layoutIteration": 32,
+            "orient": "horizontal",
+            "draggable": true,
+            "focusNodeAdjacency": false,
+            "label": {
+                "show": true,
+                "position": "right",
+                "margin": 8
+            },
+            "lineStyle": {
+                "show": true,
+                "width": 1,
+                "opacity": 0.2,
+                "curveness": 0.5,
+                "type": "solid",
+                "color": "source"
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "legend"
+            ],
+            "selected": {
+                "legend": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "sankey",
+            "padding": 5,
+            "itemGap": 10
+        }
+    ]
+};
+        chart_01e80269c32b487394668339c1bcf44a.setOption(option_01e80269c32b487394668339c1bcf44a);
+    </script>
+</body>
+</html>
